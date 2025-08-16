@@ -707,7 +707,9 @@ export class PetProject90 {
 
   pets: API.Pets = new API.Pets(this);
 }
+
 PetProject90.Pets = Pets;
+
 export declare namespace PetProject90 {
   export type RequestOptions = Opts.RequestOptions;
 
