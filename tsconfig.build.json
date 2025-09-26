@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "pet-project-90/*": ["dist/src/*"],
-      "pet-project-90": ["dist/src/index.ts"]
+      "pet-project-90/*": ["./dist/src/*"],
+      "pet-project-90": ["./dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,
