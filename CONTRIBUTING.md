@@ -60,7 +60,7 @@ $ yarn link pet-project-90
 # With pnpm
 $ pnpm link --global
 $ cd ../my-package
-$ pnpm link -—global pet-project-90
+$ pnpm link --global pet-project-90
 ```
 
 ## Running tests
