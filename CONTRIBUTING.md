@@ -42,14 +42,14 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks/pet-project-90-typescript.git
+$ npm install git+ssh://git@github.com:miriambudayr/pet-project-90-typescript.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks/pet-project-90-typescript
+$ git clone https://www.github.com/miriambudayr/pet-project-90-typescript
 $ cd pet-project-90-typescript
 
 # With yarn
@@ -60,16 +60,10 @@ $ yarn link pet-project-90
 # With pnpm
 $ pnpm link --global
 $ cd ../my-package
-$ pnpm link -—global pet-project-90
+$ pnpm link --global pet-project-90
 ```
 
 ## Running tests
-
-Most tests require you to [set up a mock server](https://github.com/stoplightio/prism) against the OpenAPI spec to run the tests.
-
-```sh
-$ npx prism mock path/to/your/openapi.yml
-```
 
 ```sh
 $ yarn run test

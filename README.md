@@ -4,14 +4,14 @@
 
 This library provides convenient access to the Pet Project 90 REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found on [swagger.iooooooo](https://swagger.iooooooo). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found on [swagger.ioooooooooooo](https://swagger.ioooooooooooo). The full API of this library can be found in [api.md](api.md).
 
 It is generated with [Stainless](https://www.stainless.com/).
 
 ## Installation
 
 ```sh
-npm install git+ssh://git@github.com:stainless-sdks/pet-project-90-typescript.git
+npm install git+ssh://git@github.com:miriambudayr/pet-project-90-typescript.git
 ```
 
 > [!NOTE]
@@ -333,7 +333,7 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 
 We take backwards-compatibility seriously and work hard to ensure you can rely on a smooth upgrade experience.
 
-We are keen for your feedback; please open an [issue](https://www.github.com/stainless-sdks/pet-project-90-typescript/issues) with questions, bugs, or suggestions.
+We are keen for your feedback; please open an [issue](https://www.github.com/miriambudayr/pet-project-90-typescript/issues) with questions, bugs, or suggestions.
 
 ## Requirements
 
